@@ -1,0 +1,45 @@
+.body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/57/88/88/360_F_357888819_XvattGqyaKLQtZ9JfW1QVTRVTaLkItug.jpg");
+    border-image-repeat: stretch;
+    }
+    
+    #player1_name_input{
+        color: brown;
+    }
+    
+    #player2_name_input{
+        color: brown;
+    }
+    
+    .login_div1{
+      background-color:rgb(155, 152, 152);
+      border-radius:70px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      width: 450px;
+    }
+    
+    .login_div2{
+
+      background-color:rgb(155, 152, 152);
+      border-radius:20px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      width: 450px;
+    }
+    
+    #heading{
+      color:lightblue;
+    }
+
+    #output {
+        background: white;
+        border-radius: 10px;
+        border-top: 10px solid #AA4465;
+        padding: 10px;
+        float: none;
+        text-align: left;
+        width: 650px;
+    }
+
+    h1, h2{
+        color: white;
+    }
